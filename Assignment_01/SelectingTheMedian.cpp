@@ -30,7 +30,7 @@ int SelectingTheMedian(int arr[], int size)
 }
 int main()
 {
-    int total, arr[100];
+    int total, arr[1100];
     string filepath;
     cout << "Enter the file path ";
     getline(cin, filepath);
