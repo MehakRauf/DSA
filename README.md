@@ -17,6 +17,9 @@
 - **Description**: We practiced generating and printing various patterns using loops. This exercise helped in understanding nested loops and their applications.
 
 ---
+## Day 5: Functions
+- **Topics Covered**: Function Definition and Declaration, Parameters and Arguments, Functions in memory and pass by value.
+- **Description**: We covered essential concepts of functions in C++. Topics included function definitions, declarations, prototypes, overloading, parameters, return types, and the scope and lifetime of variables.
 
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
