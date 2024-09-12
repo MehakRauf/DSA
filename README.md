@@ -21,7 +21,11 @@
 - **Topics Covered**: Function Definition and Declaration, Parameters and Arguments, Functions in memory and pass by value.
 - **Description**: We covered essential concepts of functions in C++. Topics included function definitions, declarations, prototypes, overloading, parameters, return types, and the scope and lifetime of variables.
 
-## Day 6: Bitwise Opearators, scope of a variable and data type modifiers
+## Day 6: Binary Number Systems
+- **Topics Covered**: Binary Number Systems, binary to decimal, decimal to binary, 1s complement, 2s complement.
+- **Description**: We explored binary number systems, the code for the conversion of decimal to binary and binary to decimal.
+
+## Day 7: Bitwise Opearators, scope of a variable and data type modifiers
 - **Topics Covered**: Bitwise Operators, Variable Scope, Data Type Modifiers.
 - **Description**: We explored bitwise operators in C++, including their use and how they operate on binary representations of data. The session also covered the scope of variables, explaining how variable visibility and lifetime are affected by their scope. Additionally, we discussed data type modifiers such as signed, unsigned, short, and long, and how they alter the range and storage of data types.
 
