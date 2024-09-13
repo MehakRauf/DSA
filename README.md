@@ -29,6 +29,14 @@
 - **Topics Covered**: Bitwise Operators, Variable Scope, Data Type Modifiers.
 - **Description**: We explored bitwise operators in C++, including their use and how they operate on binary representations of data. The session also covered the scope of variables, explaining how variable visibility and lifetime are affected by their scope. Additionally, we discussed data type modifiers such as signed, unsigned, short, and long, and how they alter the range and storage of data types.
 
+## Day 8: Introduction to Arrays, Array Operations, and Function Parameter Passing by Reference
+- **Topics Covered**: Arrays, Array Operations with Loops, Pass-by-Reference, Linear Search, Reverse Array.
+- **Description**: On Day 8, we delved into the fundamental concept of arrays in C++. We began with the basics of arrays, including their declaration, initialization, and accessing elements. We then explored how to perform operations on arrays using loops, which included iterating through elements and modifying array content.
+
+We also examined function parameter passing by reference, discussing how passing arrays to functions allows for efficient data manipulation without the overhead of copying.
+
+The session covered linear search algorithms for finding elements within an array and demonstrated how to reverse an array in-place using loops. Through these topics, we gained a comprehensive understanding of array operations and function interactions in C++.
+
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
 
