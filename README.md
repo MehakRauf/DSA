@@ -37,6 +37,10 @@ We also examined function parameter passing by reference, discussing how passing
 
 The session covered linear search algorithms for finding elements within an array and demonstrated how to reverse an array in-place using loops. Through these topics, we gained a comprehensive understanding of array operations and function interactions in C++.
 
+## Day 9: Advanced Array Concepts and STL: Vectors and Memory Management
+- **Topics Covered**: Standard Template Library (STL), Vectors, For-Each Loops, Vector Functions, Vector Syntax, Static vs Dynamic Memory Allocation, Vector Memory Layout, LeetCode Problem.
+- **Description**:  On Day 9, we expanded our understanding of array management in C++ by exploring the Standard Template Library (STL) with a focus on vectors. We learned about vector syntax, various functions provided by the vector class, and how to efficiently use the for-each loop for iteration. We also covered crucial concepts related to memory management, including static versus dynamic memory allocation and how vectors are managed in memory. To consolidate our learning, we solved a practical problem from LeetCode(single number question), applying our knowledge of vectors .
+
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
 
