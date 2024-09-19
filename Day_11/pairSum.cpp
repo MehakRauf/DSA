@@ -40,7 +40,7 @@ vector<int> pairSumOptimal(vector<int> arr, int target)
         }
         else
         {
-            end++;
+            end--;
         }
     }
 }
