@@ -45,6 +45,14 @@ The session covered linear search algorithms for finding elements within an arra
 - **Topics Covered**: Subarrays, Brute Force Approach, Maximum Subarray Sum, Kadane's Algorithm.
 - **Description**:We focused on subarrays, starting with the brute force approach to generate and print all possible subarrays from a given array O(n^3). We then explored how to calculate the maximum sum of these subarrays O(n^2), emphasizing the inefficiency of the brute force method. Finally, we implemented and explained Kadane's Algorithm, a more efficient way to find the maximum sum of a subarray in linear time O(n).
 
+## Day 11: Pair Sum Problem
+- **Topics Covered**: Pair Sum, Brute Force Approach, Optimal Solution.
+- **Description**: We delved into the Pair Sum problem, starting with a brute force approach that involves checking all possible pairs in the array, resulting in a time complexity of O(n^2). We discussed the inefficiencies of this method, especially for larger datasets. Next, we explored a more optimal solution which reduces the time complexity to O(n). 
+
+## Day 12: Majority Element
+- **Topics Covered**: Majority Element, Brute Force Approach, Optimal Solution, Moore's Voting Algorithm.
+- **Description**: We explored the Majority Element problem, beginning with a brute force approach that checks all possible elements to count their occurrences, resulting in a time complexity of O(n^2). We highlighted the inefficiency of this method and its limitations with larger datasets. Next, we introduced a more optimal solution, which reduces the time complexity to O(nlogn) and allows for efficient counting of elements. Finally, we delved into Moore's Voting Algorithm, an elegant solution that achieves O(n) time complexity. This algorithm effectively identifies the majority element by maintaining a candidate and a count, showcasing its clever use of the properties of majority elements.
+
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
 
