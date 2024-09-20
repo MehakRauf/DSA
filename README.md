@@ -53,6 +53,10 @@ The session covered linear search algorithms for finding elements within an arra
 - **Topics Covered**: Majority Element, Brute Force Approach, Optimal Solution, Moore's Voting Algorithm.
 - **Description**: We explored the Majority Element problem, beginning with a brute force approach that checks all possible elements to count their occurrences, resulting in a time complexity of O(n^2). We highlighted the inefficiency of this method and its limitations with larger datasets. Next, we introduced a more optimal solution, which reduces the time complexity to O(nlogn) and allows for efficient counting of elements. Finally, we delved into Moore's Voting Algorithm, an elegant solution that achieves O(n) time complexity. This algorithm effectively identifies the majority element by maintaining a candidate and a count, showcasing its clever use of the properties of majority elements.
 
+## Day 13: Time and Space Complexities
+- **Topics Covered**: Time Complexity, Space Complexity, Common Time Complexities, Recursion Time Complexity.
+- **Description**: We focused on understanding time and space complexities, key concepts in evaluating algorithm efficiency. We covered common time complexities, including 𝑂(1), 𝑂(𝑛), O(nlogn), O(n2), O(n3), O(n!) and O(logn)  discussing their implications on performance. We also examined space complexity, emphasizing how the amount of memory an algorithm uses can impact its feasibility. Additionally, we explored the intricacies of recursion time complexity, analyzing how recursive calls affect overall performance. This session reinforced the importance of both time and space complexities in algorithm design and optimization.
+
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
 
