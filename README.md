@@ -71,6 +71,9 @@ Overall, today's session emphasized the importance of translating theoretical kn
 - **Topics Covered**: Solved the follwoing problem: Product of Array Except Self
 - **Description**: In today's session I have solved the problem Product of Array Except Self using division method then nested loops method but the time complexity was O(n^2) and then solved it with the optimal approcah using the three different arrays (i.e: suffix, prefix and the array holding the answer) in this case the time complexity was O(n) for space optimization then we refrained ourselves from using these 2 extra arrays instead we stored the suffix in ans array itself ans then calculated the suffix using a variableonly making the space complexity O(1).
 
+## Day 17: Pointers
+- **Topics Covered**: Fundamentals of pointers
+- **Description**: In today's session we have studied about memort address, pointers, pointer to pointer, dereference operator, null pointer, pass by reference(ie. using pointers or alias(different name)), array pointers, pointer arithmetic(increment, decrement, add/subtract values, subtract pointer, compare) and solved some questions which were about predicting the output.
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
 
