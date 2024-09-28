@@ -74,6 +74,12 @@ Overall, today's session emphasized the importance of translating theoretical kn
 ## Day 17: Pointers
 - **Topics Covered**: Fundamentals of pointers
 - **Description**: In today's session we have studied about memort address, pointers, pointer to pointer, dereference operator, null pointer, pass by reference(ie. using pointers or alias(different name)), array pointers, pointer arithmetic(increment, decrement, add/subtract values, subtract pointer, compare) and solved some questions which were about predicting the output.
+
+## Day 18: Binary Seacrh Algorithm
+- **Topics Covered**: Binary Seacrh Algorithm (Iterative and Recursive)
+- **Description**: In this we have learnt binary search algorithm using iterative approach a optimization to it considering the overflow of integer in worst case (INT_MAX), the recursive apprpoach of the binary search.
+The time complexity of binary search is O(logn) and the space complexity is O(1).
+
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
 
