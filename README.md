@@ -80,6 +80,10 @@ Overall, today's session emphasized the importance of translating theoretical kn
 - **Description**: In this we have learnt binary search algorithm using iterative approach a optimization to it considering the overflow of integer in worst case (INT_MAX), the recursive apprpoach of the binary search.
 The time complexity of binary search is O(logn) and the space complexity is O(1).
 
+## Day 19: Modified Binary Seacrh Algorithm 
+- **Topics Covered**: Leetcode Problem no. 33 Solved 
+- **Description**: In this we have learnt how to use and modify binary search algorithm to solve different questions.
+
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
 
