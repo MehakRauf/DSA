@@ -81,8 +81,12 @@ Overall, today's session emphasized the importance of translating theoretical kn
 The time complexity of binary search is O(logn) and the space complexity is O(1).
 
 ## Day 19: Modified Binary Seacrh Algorithm 
-- **Topics Covered**: Leetcode Problem no. 33 Solved 
+- **Topics Covered**: Leetcode Problem no. 33 Solved (Search in rotated sorted array)
 - **Description**: In this we have learnt how to use and modify binary search algorithm to solve different questions.
+
+## Day 20: Modified Binary Seacrh Algorithm 
+- **Topics Covered**: Leetcode Problem no. 852 Solved (Peak Index In Mountain Array)
+- **Description**: In this we have solved this question using linear search O(n) and thn optimized it by using binary searchO(logn)
 
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
