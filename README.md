@@ -96,6 +96,10 @@ The time complexity of binary search is O(logn) and the space complexity is O(1)
 - **Topics Covered**: Book Allocation Problem
 - **Description**: In this we have solved this question using binary search.
 
+## Day 23: Modified Binary Seacrh Algorithm 
+- **Topics Covered**: Painter's Partition Problem
+- **Description**: In this we have solved this question using binary search.
+
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
 
