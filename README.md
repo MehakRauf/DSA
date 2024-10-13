@@ -108,6 +108,10 @@ The time complexity of binary search is O(logn) and the space complexity is O(1)
 - **Topics Covered**:  Selection, Insertion and Bubble Sort
 - **Description**: In this we have studied three of the sorting algorithms i.e: Selection, Insertion and Bubble Sort.
 
+## Day 26: Sorting Algos 
+- **Topics Covered**:  Dutch National Flag Algorithm
+- **Description**: Solved the problem number 75 of LC. Sort Array witj 0s,1s and 2s... Solve it using brute force approach then a optimized approach and lastly optimal solution using DNF algo.
+
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
 
