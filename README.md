@@ -104,6 +104,10 @@ The time complexity of binary search is O(logn) and the space complexity is O(1)
 - **Topics Covered**:  Aggressive Cows Problem
 - **Description**: In this we have solved this question using binary search.
 
+## Day 25: Sorting Algos 
+- **Topics Covered**:  Selection, Insertion and Bubble Sort
+- **Description**: In this we have studied three of the sorting algorithms i.e: Selection, Insertion and Bubble Sort.
+
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
 
