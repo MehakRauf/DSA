@@ -115,6 +115,10 @@ The time complexity of binary search is O(logn) and the space complexity is O(1)
 ## Day 27: Problem Solving 
 - **Topics Covered**:  Merge Two Sorted Array Problem
 - **Description**: Solved the problem number 88 of LC that was about merging two sorted arrays.
+
+## Day 28: Problem Solving 
+- **Topics Covered**:  Next Permutation Problem
+- **Description**: Solved the problem number 31 of LC that was about finding the lexicorgraphically next arr(permutation).
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
 
