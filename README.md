@@ -128,6 +128,10 @@ The time complexity of binary search is O(logn) and the space complexity is O(1)
 - **Topics Covered**:  STL -> Standard Template Library
 - **Description**: Learnt the stl of list, deque, pair, stack and queue.
 
+## Day 31: STL  
+- **Topics Covered**:  STL -> Standard Template Library
+- **Description**: Learnt the stl of priority queue, maps, unordered maps, multi maps, set, lower bound and upper bound.
+
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
 
