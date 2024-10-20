@@ -122,15 +122,19 @@ The time complexity of binary search is O(logn) and the space complexity is O(1)
 
 ## Day 29: STL  
 - **Topics Covered**:  STL -> Standard Template Library
-- **Description**: Learnt the stl of vectors along with the vector iterators.
+- **Description**: Learnt about the following containers vectors along with the vector iterators.
 
 ## Day 30: STL  
 - **Topics Covered**:  STL -> Standard Template Library
-- **Description**: Learnt the stl of list, deque, pair, stack and queue.
+- **Description**: Learnt about the following containers list, deque, pair, stack and queue.
 
 ## Day 31: STL  
 - **Topics Covered**:  STL -> Standard Template Library
-- **Description**: Learnt the stl of priority queue, maps, unordered maps, multi maps, set, lower bound and upper bound.
+- **Description**: Learnt the about the following containers priority queue, maps, unordered maps, multi maps, set, lower bound and upper bound.
+
+## Day 32: STL  
+- **Topics Covered**:  STL -> Standard Template Library
+- **Description**: Learnt the about the following containers mutiset and uoredered set and the following algorithms sorting, custom comparators, reverse, next permutation, max and min element, binary search and count set bits.
 
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
