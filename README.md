@@ -136,7 +136,7 @@ The time complexity of binary search is O(logn) and the space complexity is O(1)
 - **Topics Covered**:  STL -> Standard Template Library
 - **Description**: Learnt the about the following containers mutiset and uoredered set and the following algorithms sorting, custom comparators, reverse, next permutation, max and min element, binary search and count set bits.
 
-## Day 33: STL  
+## Day 33: Strings and character arrays  
 - **Topics Covered**:  Introduction to Strings and Character Arrays.
 - **Description**: This lecture was about the introduction of strings, char arrays, C++ stl strings(functions), input and output strings and how to apply different operators on strings.
 
