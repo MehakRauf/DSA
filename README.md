@@ -140,6 +140,14 @@ The time complexity of binary search is O(logn) and the space complexity is O(1)
 - **Topics Covered**:  Introduction to Strings and Character Arrays.
 - **Description**: This lecture was about the introduction of strings, char arrays, C++ stl strings(functions), input and output strings and how to apply different operators on strings.
 
+## Day 34: Problem Solving 
+- **Topics Covered**:  Problems of Strings.
+- **Description**: We have solved the problem valid palindrome (LC 344) and reverse a string (LC 1910).
+
+## Day 35: Problem Solving
+- **Topics Covered**:  Problem based on string.
+- **Description**: We have solved the problem words in string (LC 151).
+
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
 

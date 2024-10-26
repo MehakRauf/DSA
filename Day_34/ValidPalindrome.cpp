@@ -18,8 +18,8 @@ bool validPalindrome(string s)
     int st = 0, end = s.length() - 1;
     while (st < end)
     {
-        if (!isAplhaNumeric(s[st]))
-        {
+        if (!iswalnum(s[st])) // C++ builtin function to find if a character is an alphanumeric or not
+        { 
             st++;
             continue;
         }
