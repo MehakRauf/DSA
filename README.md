@@ -152,6 +152,9 @@ The time complexity of binary search is O(logn) and the space complexity is O(1)
 - **Topics Covered**:  Problem based on string.
 - **Description**: We have solved the problem permutation in string (LC 567).
 
+## Day 37: Problem Solving
+- **Topics Covered**:  Problem based on string.
+- **Description**: We have solved the problem string compression (LC 443).
 
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
