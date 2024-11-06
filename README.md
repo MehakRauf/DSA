@@ -16,7 +16,6 @@
 - **Topics Covered**: Pattern Printing
 - **Description**: We practiced generating and printing various patterns using loops. This exercise helped in understanding nested loops and their applications.
 
----
 ## Day 5: Functions
 - **Topics Covered**: Function Definition and Declaration, Parameters and Arguments, Functions in memory and pass by value.
 - **Description**: We covered essential concepts of functions in C++. Topics included function definitions, declarations, prototypes, overloading, parameters, return types, and the scope and lifetime of variables.
@@ -155,6 +154,10 @@ The time complexity of binary search is O(logn) and the space complexity is O(1)
 ## Day 37: Problem Solving
 - **Topics Covered**:  Problem based on string.
 - **Description**: We have solved the problem string compression (LC 443).
+
+## Day 38: 2D Array and 2D vectors
+- **Topics Covered**:  2D Arrays and 2D vectors.
+- **Description**: Learnt about 2D array, inputand it's output printing along with linear search on it, finding the maximum row sum problem, diagonal sum, diagonals sum(primary and secondary both),diagonals sum(primary and secondary both) optimized.
 
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
