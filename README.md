@@ -159,6 +159,10 @@ The time complexity of binary search is O(logn) and the space complexity is O(1)
 - **Topics Covered**:  2D Arrays and 2D vectors.
 - **Description**: Learnt about 2D array, inputand it's output printing along with linear search on it, finding the maximum row sum problem, diagonal sum, diagonals sum(primary and secondary both),diagonals sum(primary and secondary both) optimized.
 
+## Day 39: Problem Solving
+- **Topics Covered**:  Problem based on 2D Matrix.
+- **Description**: We have solved the problem search in a 2d matrix (LC 74).
+
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
 
