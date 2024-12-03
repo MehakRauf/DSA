@@ -1,4 +1,4 @@
-# My C++ and DSA Learning Journey
+# My DSA Learning Journey
 
 ## Day 1: Introduction to Pseudocode and Flowcharts
 - **Topics Covered**: Pseudocode, Flowcharts
@@ -171,10 +171,8 @@ The time complexity of binary search is O(logn) and the space complexity is O(1)
 - **Topics Covered**:  Problem based on Hashing.
 - **Description**: We have solved the problems two sum, find missing and repeating values and find duplicate.
 - **Approaches** : For Two Sum Problem: - Brute Force (using nested loops) - Better Solution using two pointers (start and end) - Optimized Approach using unordered map.
-For Find Missing and Repeating Values: -Optimized Approach using unordered set.
+For Find Missing and Repeating Values: - Optimized Approach using unordered set.
+For find Duplicate: - Brute Force using unordered set - Optimized Approach using Slow-Fast Pointer Approach.    
 
-## Current Status
-I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
-
-Feel free to check back for updates as I continue to expand my knowledge and skills in C++ and DSA!
+Feel free to check back for updates as I continue to expand my knowledge and skills in problem solving!
 
