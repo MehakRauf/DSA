@@ -167,11 +167,11 @@ The time complexity of binary search is O(logn) and the space complexity is O(1)
 - **Topics Covered**:  Problem based on 2D Matrix.
 - **Description**: We have solved the problem spiral matrix.
 
-## Day 40: Problem Solving
+## Day 41: Problem Solving
 - **Topics Covered**:  Problem based on Hashing.
-- **Description**: We have solved the problem two sum
-- *Approaches* : - Brute Force (using nested loops) - Better Solution using two pointers (start and end) - Optimized Approach using unordered map 
-
+- **Description**: We have solved the problems two sum, find missing and repeating values and find duplicate.
+- **Approaches** : For Two Sum Problem: - Brute Force (using nested loops) - Better Solution using two pointers (start and end) - Optimized Approach using unordered map.
+For Find Missing and Repeating Values: -Optimized Approach using unordered set.
 
 ## Current Status
 I have recently embarked on my Data Structures and Algorithms (DSA) journey. The topics covered so far have laid a solid foundation in C++ programming, and I am excited to delve deeper into more complex concepts and problems.
