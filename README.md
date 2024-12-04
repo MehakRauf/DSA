@@ -174,5 +174,10 @@ The time complexity of binary search is O(logn) and the space complexity is O(1)
 For Find Missing and Repeating Values: - Optimized Approach using unordered set.
 For find Duplicate: - Brute Force using unordered set - Optimized Approach using Slow-Fast Pointer Approach.    
 
+## Day 42: Problem Solving
+- **Topics Covered**:  Three sum problem solved (LC 15).
+- **Description**: We have solved the problem three sum.
+- **Approaches** : For Two Sum Problem: - Brute Force (using nested loops) - Better Solution using hasing - Optimized Approach using two pointer approach.
+
 Feel free to check back for updates as I continue to expand my knowledge and skills in problem solving!
 
