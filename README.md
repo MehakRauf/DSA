@@ -177,7 +177,12 @@ For find Duplicate: - Brute Force using unordered set - Optimized Approach using
 ## Day 42: Problem Solving
 - **Topics Covered**:  Three sum problem solved (LC 15).
 - **Description**: We have solved the problem three sum.
-- **Approaches** : For Two Sum Problem: - Brute Force (using nested loops) - Better Solution using hasing - Optimized Approach using two pointer approach.
+- **Approaches** : For Three Sum Problem: - Brute Force (using nested loops) - Better Solution using hasing - Optimized Approach using two pointer approach.
+
+## Day 43: Problem Solving
+- **Topics Covered**:  Four sum problem solved (LC 18).
+- **Description**: We have solved the problem four sum.
+- **Approaches** : For Four Sum Problem: - Solved using two pointers approach
 
 Feel free to check back for updates as I continue to expand my knowledge and skills in problem solving!
 
