@@ -194,5 +194,10 @@ For find Duplicate: - Brute Force using unordered set - Optimized Approach using
 - **Description**: We have solved the problems factorial and n sum.
 - **Approaches** : Solved the problems using recursion.
 
+## Day 46: Recursion
+- **Topics Covered**:  Solved the problems based on Recursion.
+- **Description**: Binary Search, Fibonacci series, sorted array problems.
+- **Approaches** : Solved the problems using recursion.
+
 Feel free to check back for updates as I continue to expand my knowledge and skills in problem solving!
 
