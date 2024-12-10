@@ -182,7 +182,12 @@ For find Duplicate: - Brute Force using unordered set - Optimized Approach using
 ## Day 43: Problem Solving
 - **Topics Covered**:  Four sum problem solved (LC 18).
 - **Description**: We have solved the problem four sum.
-- **Approaches** : For Four Sum Problem: - Solved using two pointers approach
+- **Approaches** : For Four Sum Problem: - Solved using two pointers approach.
+
+## Day 44: Problem Solving
+- **Topics Covered**:  SubArray sum (LC 560).
+- **Description**: We have solved the problem subarray sum.
+- **Approaches** : Solved it using the brute force approach.
 
 Feel free to check back for updates as I continue to expand my knowledge and skills in problem solving!
 
