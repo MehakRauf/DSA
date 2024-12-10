@@ -189,5 +189,10 @@ For find Duplicate: - Brute Force using unordered set - Optimized Approach using
 - **Description**: We have solved the problem subarray sum.
 - **Approaches** : Solved it using the brute force approach.
 
+## Day 45: Recursion
+- **Topics Covered**:  Basics of Recursion.
+- **Description**: We have solved the problems factorial and n sum.
+- **Approaches** : Solved the problems using recursion.
+
 Feel free to check back for updates as I continue to expand my knowledge and skills in problem solving!
 
