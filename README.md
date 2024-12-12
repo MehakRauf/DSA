@@ -199,9 +199,14 @@ For find Duplicate: - Brute Force using unordered set - Optimized Approach using
 - **Description**: Binary Search, Fibonacci series, sorted array problems.
 - **Approaches** : Solved the problems using recursion.
 
-## Day 46: Recursion and Backtracking
+## Day 47: Recursion and Backtracking
 - **Topics Covered**:  Solved the problems based on Recursion and backtracking.
-- **Description**: Subset-I, subset-II.
+- **Description**: Subset-I(78), subset-II(90).
+- **Approaches** : Solved the problems using recursion ans backtracking.
+
+## Day 48: Recursion and Backtracking
+- **Topics Covered**:  Solved the problems based on Recursion and backtracking.
+- **Description**: Permutations of an array and string.
 - **Approaches** : Solved the problems using recursion ans backtracking.
 
 Feel free to check back for updates as I continue to expand my knowledge and skills in problem solving!
