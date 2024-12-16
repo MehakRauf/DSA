@@ -209,7 +209,7 @@ For find Duplicate: - Brute Force using unordered set - Optimized Approach using
 - **Description**: Permutations of an array and string.
 - **Approaches** : Solved the problems using recursion ans backtracking.
 
-## Day 48: Recursion and Backtracking
+## Day 49: Recursion and Backtracking
 - **Topics Covered**:  Solved the problems based on Recursion and backtracking.
 - **Description**: nQueens problem (LC: 51).
 - **Approaches** : Solved the problem using recursion ans backtracking.
